@@ -15,13 +15,17 @@
 <img align="center" src="https://github-readme-stats-phi-rosy-10.vercel.app/api/top-langs/?username=LiaoYFBH&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&count_private=true" />
 </p>
 
-<br/>
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,html,css,md,matlab&theme=light" />
 </p>
+<a href="https://github.com/quanpeng">
+  <img src="https://github-profile-trophy.vercel.app/?username=quanpeng&theme=onedark" alt="GitHub Trophy" />
+</a>
+
 
 <!-- 个人博客链接 -->
 <p align="center">
-<a href="https://github.com/LiaoYFBH"><img src="https://img.shields.io/badge/GitHub-LiaoYFBH-black?logo=github" /></a>
+<a href="https://github.com/LiaoYFBH"><img src="https://img.shields.io/badge/GitHub-LiaoYFBH-blue?logo=github" /></a>
 <a href="https://www.zhihu.com/people/liiif-62" target="_blank"><img src="https://img.shields.io/badge/知乎-liiif-blue?logo=Zhihu" /></a>
 </p>
 
