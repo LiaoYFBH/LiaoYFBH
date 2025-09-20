@@ -18,6 +18,9 @@
 <br/>
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
+<a href="https://github.com/quanpeng">
+  <img src="https://github-profile-trophy.vercel.app/?LiaoYFBH=quanpeng&theme=onedark" alt="GitHub Trophy" />
+</a>
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
