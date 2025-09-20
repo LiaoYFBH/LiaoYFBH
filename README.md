@@ -19,11 +19,22 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
 
-<!-- https://github.com/badges/shields -->
+<!-- 个人博客链接 -->
 <p align="center">
-<a href="https://github.com/LiaoYFBH"><img src="https://img.shields.io/badge/GitHub-LiaoYFBH-blue?logo=github" /></a>
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=LiaoYFBH&abbreviated=true&color=yellow" />
+  <!-- GitHub Stats -->
+  <a href="https://github.com/quanpeng" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=quanpeng&show_icons=true&count_private=true&theme=onedark" alt="GitHub Stats" height="150"/>
+  </a>
+
+  <!-- LeetCode Stats
+  <a href="https://leetcode.cn/u/quanpeng/" target="_blank">
+    <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=dark" alt="LeetCode Stats" height="150"/>
+  </a> -->
+
+  <!-- 知乎头像 -->
+  <a href="https://www.zhihu.com/people/liiif-62" target="_blank">
+    <img src="https://picx.zhimg.com/100/v2-04b16c8baa1c3d04f9699c520a7ecc59_r.jpeg?source=32738c0c&needBackground=1&customSceneCode=image_viewer" alt="知乎" height="150"/>
+  </a>
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
