@@ -22,7 +22,7 @@
 https://github.com/anuraghazra/github-readme-stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiaoYFBH&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> -->
 <!-- <br/> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LiaoYFBH=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiaoYFBH)
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
