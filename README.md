@@ -21,8 +21,8 @@
 
 <!-- 个人博客链接 -->
 <p align="center">
-<a href="https://github.com/LiaoYFBH"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" /></a>
-<a href="https://www.zhihu.com/people/liiif-62" target="_blank"><img src="https://img.shields.io/badge/知乎-小康2022-blue?logo=Zhihu" /></a>
+<a href="https://github.com/LiaoYFBH"><img src="https://img.shields.io/badge/GitHub-LiaoYFBH-black?logo=github" /></a>
+<a href="https://www.zhihu.com/people/liiif-62" target="_blank"><img src="https://img.shields.io/badge/知乎-liiif-blue?logo=Zhihu" /></a>
 </p>
 
 
