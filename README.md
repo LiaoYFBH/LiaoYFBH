@@ -17,15 +17,21 @@
 <a href="https://www.zhihu.com/people/liiif-62" target="_blank"><img src="https://img.shields.io/badge/知乎-liiif-blue?logo=Zhihu" /></a>
 </p>
 
-##  
-
-
+<table>
+<tr><td>
 
 ## 🌟🤖 About Me
 
-<p>&emsp;&emsp;Hi, I'm LiaoYFBH, a first-year graduate student. I love programming, natural language processing, and robotics competitions.</p>
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/你的GitHubID?v=4" />
+
+<p>&emsp;&emsp;Hi, I'm [Your Name], a first-year graduate student. I love programming, natural language processing, and robotics competitions.</p>
 <p>&emsp;&emsp;I enjoy building intelligent systems and turning ideas into real-world solutions.</p>
 <p>&emsp;&emsp;<strong>Exploring NLP and robotics to push the boundaries of technology.</strong></p>
+
+<div>&nbsp;</div>
+
+</td></tr>
+</table>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
