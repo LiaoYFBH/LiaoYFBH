@@ -19,27 +19,13 @@
 
 ##  
 
-<table>
-<tr><td>
-### 🌟🤖 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/131259384?s=400&u=2edb1046367f04e0b524491ea43e36f226bec6fa&v=4" />
+
+## 🌟🤖 About Me
 
 <p>&emsp;&emsp;Hi, I'm LiaoYFBH, a first-year graduate student. I love programming, natural language processing, and robotics competitions.</p>
 <p>&emsp;&emsp;I enjoy building intelligent systems and turning ideas into real-world solutions.</p>
 <p>&emsp;&emsp;<strong>Exploring NLP and robotics to push the boundaries of technology.</strong></p>
-
-<div>&nbsp;</div>
-
-</td></tr>
-</table>
-
-<!-- Add a little space for visual clarity -->
-
-<div>&nbsp;</div>
-
-</td></tr>
-</table>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
