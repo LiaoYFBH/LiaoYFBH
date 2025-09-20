@@ -22,9 +22,9 @@
 
 ## 🌟🤖 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/你的GitHubID?v=4" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/131259384?s=400&u=2edb1046367f04e0b524491ea43e36f226bec6fa&v=4" />
 
-<p>&emsp;&emsp;Hi, I'm [Your Name], a first-year graduate student. I love programming, natural language processing, and robotics competitions.</p>
+<p>&emsp;&emsp;Hi, I'm LiaoYFBH, a first-year graduate student. I love programming, natural language processing, and robotics competitions.</p>
 <p>&emsp;&emsp;I enjoy building intelligent systems and turning ideas into real-world solutions.</p>
 <p>&emsp;&emsp;<strong>Exploring NLP and robotics to push the boundaries of technology.</strong></p>
 
