@@ -26,7 +26,6 @@
 
 <p>&emsp;&emsp;Hi, I'm LiaoYFBH, a first-year graduate student. I love programming, natural language processing, and robotics competitions.</p>
 <p>&emsp;&emsp;I enjoy building intelligent systems and turning ideas into real-world solutions.</p>
-<p>&emsp;&emsp;<strong>Exploring NLP and robotics to push the boundaries of technology.</strong></p>
 
 <div>&nbsp;</div>
 
