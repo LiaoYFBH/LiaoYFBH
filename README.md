@@ -18,9 +18,6 @@
 <br/>
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
-<a href="https://github.com/quanpeng">
-  <img src="https://github-profile-trophy.vercel.app/?LiaoYFBH=quanpeng&theme=onedark" alt="GitHub Trophy" />
-</a>
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
@@ -36,5 +33,8 @@
 
 <img src="https://stats.justsong.cn/api/zhihu?username=liiif-62&theme=dark" alt="zhihu Stats" />
 
+<a href="https://www.zhihu.com/people/liiif-62" target="_blank">
+  <img src="https://picx.zhimg.com/100/v2-04b16c8baa1c3d04f9699c520a7ecc59_r.jpeg?source=32738c0c&needBackground=1&customSceneCode=image_viewer" alt="知乎" width="50"/>
+</a>
 
 https://www.zhihu.com/people/liiif-62
