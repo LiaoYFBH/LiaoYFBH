@@ -50,10 +50,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,html,css,md,matlab&theme=light" />
 </p>
-<!-- 奖杯 -->
-<a href="https://github.com/LiaoYFBH">
-  <img src="https://github-profile-trophy.vercel.app/?username=LiaoYFBH&theme=onedark" alt="GitHub Trophy" />
-</a>
+
 
 
 
